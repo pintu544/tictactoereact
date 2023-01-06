@@ -1,3 +1,13 @@
+Simple Tic Tac Toe react app 
+The game  have the following features:
+
+3x3 clearly visible grid.
+On clicking any of the boxes in the grid, it should get filled with an 'X' or an 'O'. This should be alternate and begin with the 'X'.
+Clicking on a box which already contains an 'X' or an 'O' should have no effect.
+Declare the winner if there are 3 same symbols in the same row, column or diagonal.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
